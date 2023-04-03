@@ -1,0 +1,1 @@
+# cf-warp-tray-icon
